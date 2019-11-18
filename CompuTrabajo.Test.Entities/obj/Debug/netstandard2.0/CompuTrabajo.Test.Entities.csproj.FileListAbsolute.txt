@@ -1,0 +1,8 @@
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Entities\bin\Debug\netstandard2.0\CompuTrabajo.Test.Entities.deps.json
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Entities\bin\Debug\netstandard2.0\CompuTrabajo.Test.Entities.dll
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Entities\bin\Debug\netstandard2.0\CompuTrabajo.Test.Entities.pdb
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Entities\obj\Debug\netstandard2.0\CompuTrabajo.Test.Entities.AssemblyInfoInputs.cache
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Entities\obj\Debug\netstandard2.0\CompuTrabajo.Test.Entities.AssemblyInfo.cs
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Entities\obj\Debug\netstandard2.0\CompuTrabajo.Test.Entities.dll
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Entities\obj\Debug\netstandard2.0\CompuTrabajo.Test.Entities.pdb
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Entities\obj\Debug\netstandard2.0\CompuTrabajo.Test.Entities.csprojAssemblyReference.cache

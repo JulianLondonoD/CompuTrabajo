@@ -1,0 +1,15 @@
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Service\bin\Debug\netstandard2.0\CompuTrabajo.Test.Service.deps.json
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Service\bin\Debug\netstandard2.0\CompuTrabajo.Test.Service.dll
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Service\bin\Debug\netstandard2.0\CompuTrabajo.Test.Service.pdb
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Service\bin\Debug\netstandard2.0\CompuTrabajo.Test.Entities.dll
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Service\bin\Debug\netstandard2.0\CompuTrabajo.Test.Repository.dll
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Service\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Service\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Service\bin\Debug\netstandard2.0\CompuTrabajo.Test.Repository.pdb
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Service\bin\Debug\netstandard2.0\CompuTrabajo.Test.Entities.pdb
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Service\obj\Debug\netstandard2.0\CompuTrabajo.Test.Service.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Service\obj\Debug\netstandard2.0\CompuTrabajo.Test.Service.AssemblyInfoInputs.cache
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Service\obj\Debug\netstandard2.0\CompuTrabajo.Test.Service.AssemblyInfo.cs
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Service\obj\Debug\netstandard2.0\CompuTrabajo.Test.Service.csproj.CopyComplete
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Service\obj\Debug\netstandard2.0\CompuTrabajo.Test.Service.dll
+C:\Users\Julian\source\repos\CompuTrabajo.Test.Api\CompuTrabajo.Test.Service\obj\Debug\netstandard2.0\CompuTrabajo.Test.Service.pdb
